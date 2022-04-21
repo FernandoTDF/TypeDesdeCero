@@ -10,4 +10,6 @@ document.getElementById("app").innerHTML = `
   <mb>
   <hl>
   <h1>SOKOTROKO</h1>
+  <h1>SOKOTROKO</h1>
+  <h1>SOKOTROKO</h1>
 </div>`;
